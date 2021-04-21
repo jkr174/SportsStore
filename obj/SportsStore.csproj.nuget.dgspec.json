@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\MVC\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\MVC\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\MVC\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "F:\\GitHub\\MVC\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\jromo021627\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\MVC\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jromo021627\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -38,8 +37,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
+            "Bower": {
+              "target": "Package",
+              "version": "[1.3.11, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -56,6 +58,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             }
           },
           "imports": [
@@ -68,7 +74,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

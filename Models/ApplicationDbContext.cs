@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.DependencyInjection;
 namespace SportsStore.Models
 {
-    public class ApplicationDbContext : DbContext
+    public class PageIngo : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public PageIngo(DbContextOptions<PageIngo> options)
         : base(options) { }
         public DbSet<Product> Products { get; set; }
     }
