@@ -109,7 +109,6 @@ C:\Users\jromo021627\Downloads\SportsStore-main\SportsStore-main\obj\Debug\netco
 C:\Users\jromo021627\Downloads\SportsStore-main\SportsStore-main\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.deps.json
 C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.json
 C:\Users\jromo021627\Documents\GitHub\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
@@ -130,11 +129,7 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
-C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
@@ -144,3 +139,4 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Sports
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache

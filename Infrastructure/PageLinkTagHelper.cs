@@ -24,7 +24,7 @@ namespace SportsStore.Infrastructure
         public string PageClassNormal { get; set; }
         public string PageClassSelected { get; set; }
         public override void Process(TagHelperContext context,
-        TagHelperOutput output)
+            TagHelperOutput output)
         {
             IUrlHelper urlHelper = urlHelperFactory.GetUrlHelper(ViewContext);
             TagBuilder result = new TagBuilder("div");
