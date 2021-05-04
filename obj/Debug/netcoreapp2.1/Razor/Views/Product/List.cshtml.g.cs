@@ -108,7 +108,7 @@ using SportsStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(515, 306, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f4c02bea05e44e8db9776ec3cdf39d0b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04a479964e4b4edea62d232c008ad283", async() => {
                 BeginContext(811, 4, true);
                 WriteLiteral("\r\n\r\n");
                 EndContext();
