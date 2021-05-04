@@ -1,15 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using System.Threading.Tasks;
-
+using SportsStore.Models;
 namespace SportsStore.Components
 {
-    public class NavigationMenuViewComponent
+    public class NavigationMenuViewComponent : ViewComponent
     {
-        public string Invoke()
+        private IProductRepository repository;
+        public NavigationMenuViewComponent(IProductRepository repo)
         {
-            return "Hello from the Nav View Component";
+            repository = repo;
+        }
+        public IViewComponentResult Invoke()
+        {
+            return View(repository.Products
+            .Select(x => x.Category)
+            .Distinct()
+            .OrderBy(x => x));
         }
     }
 }

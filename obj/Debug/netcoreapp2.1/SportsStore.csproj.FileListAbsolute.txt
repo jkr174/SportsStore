@@ -137,3 +137,4 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Sports
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
