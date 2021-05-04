@@ -20,10 +20,7 @@ C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
@@ -33,7 +30,6 @@ C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
-C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
 F:\GitHub\MVC\SportsStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
 F:\GitHub\MVC\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
 F:\GitHub\MVC\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.deps.json
@@ -140,3 +136,4 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Sports
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
