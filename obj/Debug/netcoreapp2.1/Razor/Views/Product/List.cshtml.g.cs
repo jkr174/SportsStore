@@ -28,8 +28,13 @@ using SportsStore.Models.ViewModels;
 
 #line default
 #line hidden
+#line 4 "C:\Users\romo1\source\repos\SportsStore\Views\_ViewImports.cshtml"
+using SportsStore.Infrastructure;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e4aee86e7456015616e4d0fc01f8dede3111d488", @"/Views/Product/List.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"47640757b45a105bbf617b3607725405bb97d71b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4774c33d9c14ab42fced35a9aba5cc270a896af5", @"/Views/_ViewImports.cshtml")]
     public class Views_Product_List : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ProductsListViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("page-action", "List", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -108,7 +113,7 @@ using SportsStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(515, 306, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04a479964e4b4edea62d232c008ad283", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "78d17b40ad71478da61b5b9ffda5b96b", async() => {
                 BeginContext(811, 4, true);
                 WriteLiteral("\r\n\r\n");
                 EndContext();

@@ -2,6 +2,7 @@
 using SportsStore.Models;
 using System.Linq;
 using SportsStore.Models.ViewModels;
+
 namespace SportsStore.Controllers
 {
     public class ProductController : Controller

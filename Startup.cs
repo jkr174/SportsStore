@@ -21,28 +21,31 @@ namespace SportsStore
             services.AddDbContext<PageIngo>(options => options.UseSqlServer(Configuration["Data:SportsStoreProducts:ConnectionString"]));
             services.AddTransient<IProductRepository, EFProductRepository>();
             services.AddMvc();
+            services.AddMemoryCache();
+            services.AddSession();
         }
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseMvc(routes => {
                 routes.MapRoute(
                 name: null,
                 template: "{category}/Page{productPage:int}",
                 defaults: new { controller = "Product", action = "List" }
                 );
-            routes.MapRoute(
-            name: null,
-            template: "Page{productPage:int}",
-            defaults: new
-            {
-                controller = "Product",
-                action = "List",
-                productPage = 1
-            }
-            );
+                routes.MapRoute(
+                name: null,
+                template: "Page{productPage:int}",
+                defaults: new
+                {
+                    controller = "Product",
+                    action = "List",
+                    productPage = 1
+                }
+                );
                 routes.MapRoute(
                 name: null,
                 template: "{category}",
