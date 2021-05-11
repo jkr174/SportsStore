@@ -144,3 +144,4 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\jromo021627\Documents\GitHub\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\romo1\source\repos\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
