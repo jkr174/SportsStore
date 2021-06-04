@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\romo1\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\romo1\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\romo1\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore\\SportsStore.csproj",
-        "packagesPath": "C:\\Users\\jromo021627\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jromo021627\\Documents\\GitHub\\SportsStore\\SportsStore\\obj\\",
+        "projectPath": "C:\\Users\\romo1\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "packagesPath": "C:\\Users\\romo1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romo1\\source\\repos\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jromo021627\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\romo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
