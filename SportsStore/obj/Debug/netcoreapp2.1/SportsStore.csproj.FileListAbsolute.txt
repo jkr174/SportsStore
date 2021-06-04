@@ -164,3 +164,8 @@ C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcorea
 C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
 C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.cshtml.g.cs
 C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\jromo021627\Documents\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs

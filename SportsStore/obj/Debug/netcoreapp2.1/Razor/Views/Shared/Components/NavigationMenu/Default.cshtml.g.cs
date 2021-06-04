@@ -63,7 +63,7 @@ using SportsStore.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(30, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a823564a6b564bef86bf7b64854c2d64", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "180aa0a69ba54dfc90f870cf937b54b9", async() => {
                 BeginContext(145, 12, true);
                 WriteLiteral("\r\n    Home\r\n");
                 EndContext();
@@ -98,7 +98,7 @@ using SportsStore.Infrastructure;
             WriteLiteral("    ");
             EndContext();
             BeginContext(215, 200, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f984a70e24734629a2b42afb9f45f63e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f03d0c03d42944239fa112893dada383", async() => {
                 BeginContext(386, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();

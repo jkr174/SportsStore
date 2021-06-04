@@ -126,7 +126,7 @@ using SportsStore.Infrastructure;
             WriteLiteral("\r\n                    </td>\r\n                    <td>\r\n                        ");
             EndContext();
             BeginContext(828, 511, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02602d2a35bf4cd9ba0ace005ee02236", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "706c8afe29ed446998d044e190e7a6a5", async() => {
                 BeginContext(876, 67, true);
                 WriteLiteral("\r\n                            <input type=\"hidden\" name=\"ProductID\"");
                 EndContext();
@@ -200,7 +200,7 @@ WriteAttributeValue("", 1733, Model.ReturnUrl, 1733, 16, false);
             WriteLiteral(">Continue shopping</a>\r\n    ");
             EndContext();
             BeginContext(1778, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c69957f49c649b18fa0251f3779ae80", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2d8ffda1e74c41bd91e6b1eb408f7954", async() => {
                 BeginContext(1850, 24, true);
                 WriteLiteral("\r\n        Checkout\r\n    ");
                 EndContext();
